@@ -1,11 +1,10 @@
 AnnonRAT
 =========
 [![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)
-(https://gitter.im/quasar/QuasarRAT)
 
 **Free, Open-Source Remote Administration Tool for Windows**
 
-Quasar is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
+Annon is a fast and light-weight remote administration tool coded in C#. Providing high stability and an easy-to-use user interface, Annon is the perfect remote administration solution for you.
 
 Features
 ---
@@ -63,7 +62,7 @@ Building a client
 
 ToDo
 ---
-* [Open Issues](https://github.com/quasar/QuasarRAT/issues)
+* [Open Issues](https://github.com/AnnonZerp/AnnonRat/issues)
 
 Contributing
 ---
@@ -75,7 +74,7 @@ See [LICENSE.md](/LICENSE.md)
 
 Donate
 ---
-Bitcoin: `17eAafhEYnxmnj2nQ92tDFdDzATL27gcj`
+Bitcoin: `1GJmHxgH6AhrovA9MuwVVdxMVHWRqwwNij`
 
 Credits
 ---
@@ -101,4 +100,4 @@ https://github.com/nterry/Mono.Nat
 
 Thank you!
 ---
-I really appreciate all kinds of feedback and contributions. Thanks for using and supporting Quasar!
+I really appreciate all kinds of feedback and contributions. Thanks for using and supporting AnnonRat!
