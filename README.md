@@ -1,6 +1,5 @@
 AnnonRAT
 =========
-[![Build status](https://ci.appveyor.com/api/projects/status/5857hfy6r1ltb5f2?svg=true)
 
 **Free, Open-Source Remote Administration Tool for Windows**
 
@@ -63,14 +62,6 @@ Building a client
 ToDo
 ---
 * [Open Issues](https://github.com/AnnonZerp/AnnonRat/issues)
-
-Contributing
----
-See [CONTRIBUTING.md](/CONTRIBUTING.md)
-
-License
----
-See [LICENSE.md](/LICENSE.md)
 
 Donate
 ---
